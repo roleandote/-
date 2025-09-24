@@ -4,8 +4,8 @@
 ```csharp
 github.com/roleandote
 dc   $  @rolendote
-srv  $  dsc.gg/fine-project
-web  $  guns.lol/7sp
+srv  $  dsc.gg/inscripts
+web  $  drift.rip/rylo
 ```
 &zwnj; 
 &zwnj; 
